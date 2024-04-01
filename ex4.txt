@@ -1,0 +1,7 @@
+Ligo o interruptor 1 e desligo após 10 minutos. Em seguida, ligo o interruptor 2 e visito uma sala aleatória.
+
+- Se a lâmpada estiver apagada e quente, pertence ao interruptor 1.
+- Se a lâmpada estiver acesa, pertence ao interruptor 2.
+- Se a lâmpada estiver apagada e fria, pertence ao interruptor 3.
+
+Sabendo a qual lâmpada pertence um dos interruptores, volto à sala de controle e deixo apenas um dos dois interruptores restantes ligado. Feito isso, visito novamente uma sala aleatória (que não seja a primeira sala que visitei) e descubro a quais salas pertencem os dois interruptores restantes.
